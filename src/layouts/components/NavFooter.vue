@@ -6,9 +6,6 @@
     <div class="flex flex-1">
       &copy;&nbsp;
       {{ new Date().getFullYear() }}&nbsp;
-      &nbsp;
-      <img src="" />&nbsp;
-      &nbsp;
       <a
         class="link link-primary no-underline"
         href="https://explorer.meowment.xyz"
