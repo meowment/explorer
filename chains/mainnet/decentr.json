@@ -1,0 +1,20 @@
+{
+    "chain_name": "decentr",
+    "api": ["https://decentr-api.ibs.team","https://rest.mainnet.decentr.xyz"],
+    "rpc": ["https://decentr-rpc.ibs.team","https://poseidon.mainnet.decentr.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.9",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "decentr",
+    "logo": "/logos/decentr.svg",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "theme_color": "#66a4cd",
+    "assets": [{
+        "base": "udec",
+        "symbol": "DEC",
+        "exponent": "6",
+        "coingecko_id": "decentr",
+        "logo": "/logos/decentr.svg"
+    }]
+}
