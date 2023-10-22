@@ -260,7 +260,7 @@ function selected(route: any, nav: NavLink) {
           <div
             class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
-            FAQ
+            Discord
           </div>
         </a>
       </div>
