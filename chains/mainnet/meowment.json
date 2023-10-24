@@ -1,0 +1,30 @@
+{
+    "chain_name": "Meowment",
+    "coingecko": "",
+    "api": [
+      {"provider": "Meowment", "address": "https://rest.dymension.meowment.xyz"}
+  ],
+    "rpc": [
+      {"provider": "Meowment", "address": "https://rpc.dymension.meowment.xyz"}
+  ],
+    "provider_chain": {
+    "api": ["https://rest.dymension.meowment.xyz"]
+  },
+    "features": ["dashboard", "blocks", "ibc", "cosmwasm", "parameters", "supply"],
+    "sdk_version": "0.46.13",
+    "coin_type": 60,
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "ethm",
+    "logo": "/logos/meowment.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#b27062",
+    "assets": [
+      {
+        "base": "uMWN",
+        "symbol": "MWN",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/meowment.png"
+      }
+    ]
+}
