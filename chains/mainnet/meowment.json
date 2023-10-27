@@ -5,7 +5,7 @@
       {"provider": "Meowment", "address": "https://rest.dymension.meowment.xyz"}
   ],
     "rpc": [
-      {"provider": "Meowment", "address": "https://rpc.dymension.meowment.xyz"}
+      {"provider": "Meowment", "address": "https://rpc-dymension.meowment.xyz"}
   ],
     "provider_chain": {
     "api": ["https://rest.dymension.meowment.xyz"]
