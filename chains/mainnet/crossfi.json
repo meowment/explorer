@@ -12,8 +12,8 @@
     "theme_color": "#11056b",
     "assets": [
       {
-        "base": "umpx",
-        "symbol": "MPX",
+        "base": "mpx",
+        "symbol": "PX",
         "exponent": "18",
         "logo": "/logos/crossfi.jpg"
       }
